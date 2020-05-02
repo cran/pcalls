@@ -1,0 +1,14 @@
+1e215d5049b03982b32c7cdcd10093e6 *DESCRIPTION
+9412bbdf49f0653890887645b36d6fc1 *NAMESPACE
+08991fd2f240c305e623af4572395ac9 *R/AmericanDigitalCalls.R
+586b052503c7e516ad19d82164593bfe *R/BinaryTreeCalls.R
+32ed1c58b1fd733471fd460d924f592f *R/BlackscholesCalls.R
+1a6a33eff5e943ac1f28068068c4d2d6 *R/MontecarloAntitheticCalls.R
+7db02fc513ad3422744c50a683277012 *R/MontecarloCalls.R
+6d665317e1514e0924caad93a7703d2b *build/partial.rdb
+834a81b833a6902e9bd6fcdfb9932b3a *man/AmericanDigitalCalls.Rd
+5160ae02d41b367e5c12a8efa33b8deb *man/BinaryTreeCalls.Rd
+b93883005ecf6a274c17d32d810e57f1 *man/BlackscholesCalls.Rd
+c79f726aa3f00a02924d2b1693e646de *man/MontecarloAntitheticCalls.Rd
+da0e89934c212c5bc020bdbbbc13b495 *man/MontecarloCalls.Rd
+8e78f47674a098cb289ddc3fdc636880 *man/pcalls-package.Rd
